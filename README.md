@@ -1,7 +1,6 @@
 
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=7500&color=777777&background=00000000&width=500&height=40&lines=++Hello!+I'm+Faaiz+Amir,+Welcome+to+my+GitHub+👾)](https://git.io/typing-svg)
-# <a href="https://github.com/faaizamir"><img src="https://i.ibb.co/6FhKkKD/IMG-7129.png" alt="myPfp" width="225px" height="250px" border="0"></a> Nice to meet you! I’m Faaiz Amir 👋 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=7500&color=777777&background=00000000&width=500&height=50&lines=++Welcome+to+my+GitHub+👾,+Nice+to+meet+you+🥰)](https://git.io/typing-svg)
+# I'm Faaiz Amir! 👋 <br>
 
 🙋‍♂️ Thank you for visiting my GitHub profile! 
 
