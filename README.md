@@ -1,4 +1,4 @@
-<img align="right" alt="GIF" height="140px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+<img align="right" alt="GIF" height="135px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=7500&color=777777&background=00000000&width=500&height=50&lines=++Welcome+to+my+GitHub+👾,+Nice+to+meet+you+🥰)](https://git.io/typing-svg)
 # I'm Faaiz Amir! 👋 <br>
