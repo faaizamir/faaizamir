@@ -41,6 +41,8 @@ Frontend Developer || NextJS || TypeScript
 
 <br>
 
+<span><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="NextJS logo" title="NextJS" height="25" /></span>
+&nbsp;
 <span><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="ReactJS logo" title="ReactJS" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux logo" title="Redux" height="25" /></span>
@@ -95,7 +97,7 @@ Frontend Developer || NextJS || TypeScript
 
 <i> Recently, I'm also learning: </i>
 
-<span><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="ReactJS logo" title="ReactJS" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="NextJS logo" title="NextJS" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js logo" title="Node.js" height="25" /></span>
 <br>
