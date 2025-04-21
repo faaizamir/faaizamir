@@ -2,14 +2,14 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=7500&color=777777&background=00000000&width=500&height=50&lines=++Welcome+to+my+GitHub+👾,+Nice+to+meet+you+🥰)](https://git.io/typing-svg)
 # I'm Faaiz Amir! 👋 <br>
-Frontend Developer || NextJS || TypeScript 
+Frontend Developer | NextJS | TypeScript 
 <br>
 <hr>
 
 
 ## I'm a Computer Science Student  
 - 🙋‍♂️ Currently in 5th semester, pursuing my BSCS Degree from Sindh Madressah-tul-Islam University (SMIU) 
-- 👨‍💻 Working on web development technologies like JavaScript, React, etc.
+- 👨‍💻 Working on web development technologies like NextJS, TypeScript, Reactjs, etc.
 - 📚 Interested in learning everything about Frontend and Backend technologies 😅
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 - ⚡ Fun fact: I love to play Football and Chess ♟.
