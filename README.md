@@ -8,7 +8,7 @@ Frontend Developer | NextJS | TypeScript
 
 
 ## I'm a Computer Science Student  
-- 🙋‍♂️ Currently in 5th semester, pursuing my BSCS Degree from Sindh Madressah-tul-Islam University (SMIU) 
+- 🙋‍♂️ Currently in 6th semester, pursuing my BSCS Degree from Sindh Madressah-tul-Islam University (SMIU) 
 - 👨‍💻 Working on web development technologies like NextJS, TypeScript, Reactjs, etc.
 - 📚 Interested in learning everything about Frontend and Backend technologies 😅
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
